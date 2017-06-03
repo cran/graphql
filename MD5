@@ -1,12 +1,12 @@
-bea74c36a029dc2d05d21932b5af9cf3 *DESCRIPTION
+a58b9070b4c7b4cccd48e105c00ef869 *DESCRIPTION
 841b3df004f8cb4e96becfefac6a457a *LICENSE
 ab43830480a1cba020853905502ae54b *NAMESPACE
-55cafce2dc1b192a15d220ff49ad797d *NEWS
+785e6fb3b15f443768a5001c6737e623 *NEWS
 ac4d4d4825927c856bbb7e1e29ef0dd4 *R/RcppExports.R
-4ad2992beea5adbac6ff7c441bed61f5 *R/graphql2json.R
-5d00d3cab716c5b0591c4179e4398e0f *man/graphql.Rd
+8a20ee2dbec704fcb0510fa16bb63403 *R/graphql2json.R
+2dd2d593f9fb484448b0b613b6461202 *man/graphql.Rd
 b8d409c329d49089e3d61fc83eb0da81 *src/Makevars
-9e556679fa7b4a355f2d683c23497622 *src/RcppExports.cpp
+1dbcbd34c77178359bfec1ff10ee1103 *src/RcppExports.cpp
 56c29951f7832d873fdb1b19280900e1 *src/dump_json_ast.cpp
 fafa31620ecf3c3a58c1116e0f57cddb *src/libgraphqlparser/Ast.cpp
 cd083d014c105194ec9a8a2d4b298d8a *src/libgraphqlparser/Ast.h
@@ -14,7 +14,7 @@ cd083d014c105194ec9a8a2d4b298d8a *src/libgraphqlparser/Ast.h
 bf07d9189087e5858e7e3a7e67868aad *src/libgraphqlparser/AstVisitor.h
 3e9af8b4cbfa760dc39c95b02627eafa *src/libgraphqlparser/GraphQLParser.cpp
 60e3433f67f1e5ba49c64d29739f08a7 *src/libgraphqlparser/GraphQLParser.h
-c8ee7a557c8c6f5f991c245390ce6883 *src/libgraphqlparser/JsonVisitor.cpp
+191716ac64399e268ab766258a7f48ff *src/libgraphqlparser/JsonVisitor.cpp
 4b01591e2044727434bfba34c96f51d0 *src/libgraphqlparser/JsonVisitor.cpp.inc
 724ce5537ad847b33d57c6879170fc11 *src/libgraphqlparser/JsonVisitor.h
 2d1d0aa1fe29f89eabb50bec7e3932f8 *src/libgraphqlparser/JsonVisitor.h.inc
@@ -29,9 +29,9 @@ f991285786462711afe04aea2cef9a8f *src/libgraphqlparser/c/GraphQLAstNode.h
 8177504f71081b848c6bec1d30669ec1 *src/libgraphqlparser/c/GraphQLAstVisitor.h
 b959382121b115535f9538a260305fc3 *src/libgraphqlparser/c/GraphQLParser.cpp
 52ea19c092a8326c29eec60e2d74ddca *src/libgraphqlparser/c/GraphQLParser.h
-d5aab0c69b4981f90a5f0f8293f70f05 *src/libgraphqlparser/lexer.cpp
+06b5d5effb19727a68c94ce87d4d08a7 *src/libgraphqlparser/lexer.cpp
 80137047cbc5da21e1faecb2c09a0be1 *src/libgraphqlparser/lexer.h
-beb3a652faead3b4cd992bd206d1b2c2 *src/libgraphqlparser/lexer.lpp
+0ca49a3910825db184c2edb92a1e2c68 *src/libgraphqlparser/lexer.lpp
 84d06ff400a1f9500e9960e67fdbc757 *src/libgraphqlparser/location.hh
 eb3ea92e469db3841d65e9ae306e7d58 *src/libgraphqlparser/parser.tab.cpp
 23c001271b6e0a437443b92d21691ac2 *src/libgraphqlparser/parser.tab.hpp
@@ -41,5 +41,5 @@ a66ba8bdbbf084d1ee6f287e29163764 *src/libgraphqlparser/syntaxdefs.h
 806a060c1aeb1c41853fc6f466318fbf *tests/testthat.R
 31e3337b5ea218dcc10d9295038c3281 *tests/testthat/kitchen-sink.graphql
 585e892a85be739bbc41a2f6883d9fa0 *tests/testthat/schema-kitchen-sink.graphql
-a970d9313d356df21342d080213e3327 *tests/testthat/test-kitchen_sink.R
-a5998ac3900be6809f650dec2560f408 *tests/testthat/test-schema_kitchen_sink.R
+5366d641ed9ee4b6371e42c816f22671 *tests/testthat/test-kitchen_sink.R
+f774d79c8619d9a8b7299ea081d268ae *tests/testthat/test-schema_kitchen_sink.R
