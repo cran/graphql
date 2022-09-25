@@ -1,12 +1,12 @@
-d80fbf007dc001876317d084e71ea339 *DESCRIPTION
+9ee537d69762703c6cfa3fd77d5c3fa3 *DESCRIPTION
 771d018357c6b489a330251f37a8086b *LICENSE
 ab43830480a1cba020853905502ae54b *NAMESPACE
-63104d610b52d7b65d7a7f750603486a *NEWS
+6ce7374fffce0379636c6965d0801f13 *NEWS
 f20905a37045803ec0de2105331e6555 *R/RcppExports.R
 bd4d0a502e1ed7711fb7feb647e01557 *R/graphql2json.R
 0d09c9794e5c7532625aff3e226f40fb *man/graphql.Rd
 0b7b63fecdf06447a7455c6e42f66a4a *src/Makevars
-ebf2b2f66f0851927738a8beb0606d69 *src/RcppExports.cpp
+78290363317d60155cdd3cfdb718efc0 *src/RcppExports.cpp
 926da33e0e858f2846f60bbfa3609018 *src/dump_json_ast.cpp
 97239a8d691bd2d8535bdc114d6ece69 *src/libgraphqlparser/Ast.cpp
 d3da6c686699ff29f7ea69c2e69d9df3 *src/libgraphqlparser/Ast.h
@@ -29,9 +29,9 @@ e556b5e31da00594d52873d02336bea7 *src/libgraphqlparser/c/GraphQLAstVisitor.cpp
 44d46cbd1ec21c77abba5bacfb33b521 *src/libgraphqlparser/c/GraphQLAstVisitor.h
 2e7811d3d4dbc55487600452a4603cb0 *src/libgraphqlparser/c/GraphQLParser.cpp
 9bf22bca77048adeed60349debe45e23 *src/libgraphqlparser/c/GraphQLParser.h
-1924b2487e2785c65c63aba739d1c9cb *src/libgraphqlparser/lexer.cpp
+41219647692bd507c15985c490bd33bb *src/libgraphqlparser/lexer.cpp
 6e805bd39470c0b5df0a7a65a1855566 *src/libgraphqlparser/lexer.h
-9fff0c8110f0481b2d549610b8052b78 *src/libgraphqlparser/lexer.lpp
+07e9093b7e98587e2f4e72e5d64a540b *src/libgraphqlparser/lexer.lpp
 842f6c6a86542a04bfae4345412de89a *src/libgraphqlparser/location.hh
 a3d2e92c33b2e5da05138bbdac86fe95 *src/libgraphqlparser/parser.tab.cpp
 1dd1e9e112ea258c256a02ebaf269b43 *src/libgraphqlparser/parser.tab.hpp
