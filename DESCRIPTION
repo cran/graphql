@@ -1,7 +1,7 @@
 Package: graphql
 Type: Package
 Title: A GraphQL Query Parser
-Version: 1.5.2
+Version: 1.5.3
 Authors@R: c(
     person("Jeroen", "Ooms", , "jeroenooms@gmail.com", role = c("cre", "aut")),
     person("Barret", "Schloerke", , "schloerke@gmail.com", role = "ctb"),
@@ -19,11 +19,11 @@ Imports: Rcpp (>= 0.12.12), jsonlite
 Suggests: testthat
 RoxygenNote: 6.0.1
 NeedsCompilation: yes
-Packaged: 2024-10-04 14:23:24 UTC; jeroen
+Packaged: 2025-03-17 21:13:53 UTC; jeroen
 Author: Jeroen Ooms [cre, aut],
   Barret Schloerke [ctb],
   Scott Wolchok [ctb],
   Facebook, Inc [aut, cph] (libgraphqlparser C++ library)
 Maintainer: Jeroen Ooms <jeroenooms@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-10-04 15:40:03 UTC
+Date/Publication: 2025-03-17 21:40:11 UTC
